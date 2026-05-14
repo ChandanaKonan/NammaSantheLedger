@@ -121,7 +121,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Chandana K V
 
 ---
 
